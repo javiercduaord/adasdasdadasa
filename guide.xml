@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal HBO Pop">
+    <display-name lang="es">Canal HBO Pop</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201227012000 -0600" stop="20201227025000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Para divertirte, llama</title>
+  </programme>
+  <programme start="20201227025000 -0600" stop="20201227043000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Quemese después de leerse</title>
+  </programme>
+  <programme start="20201227043000 -0600" stop="20201227054900 -0600" channel="Canal HBO Pop">
+    <title lang="es">Gary Gulman La gran depre</title>
+  </programme>
+  <programme start="20201227054900 -0600" stop="20201227075500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Downton Abbey</title>
+  </programme>
+  <programme start="20201227075500 -0600" stop="20201227093300 -0600" channel="Canal HBO Pop">
+    <title lang="es">Un papá genial</title>
+  </programme>
+  <programme start="20201227093300 -0600" stop="20201227111500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Hijos</title>
+  </programme>
+  <programme start="20201227111500 -0600" stop="20201227124500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Misterio en el set</title>
+  </programme>
+  <programme start="20201227124500 -0600" stop="20201227142500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Cuando apareciste tú</title>
+  </programme>
+  <programme start="20201227142500 -0600" stop="20201227161000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Un cumpleaños problemático</title>
+  </programme>
+  <programme start="20201227161000 -0600" stop="20201227182000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Ligeramente embarazada</title>
+  </programme>
+  <programme start="20201227182000 -0600" stop="20201227200000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Año uno</title>
+  </programme>
+  <programme start="20201227200000 -0600" stop="20201227214500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Una loca aventura medieval</title>
+  </programme>
+  <programme start="20201227214500 -0600" stop="20201227232300 -0600" channel="Canal HBO Pop">
+    <title lang="es">Tenacious D</title>
+  </programme>
+  <programme start="20201227232300 -0600" stop="20201228011000 -0600" channel="Canal HBO Pop">
+    <title lang="es">American Pie 2</title>
+  </programme>
+</tv>
